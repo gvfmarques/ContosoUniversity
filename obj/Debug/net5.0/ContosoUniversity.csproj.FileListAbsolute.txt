@@ -169,3 +169,4 @@ C:\Users\gmarques\Documents\dotnetTutorials\ContosoUniversity\obj\Debug\net5.0\R
 C:\Users\gmarques\Documents\dotnetTutorials\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Details.cshtml.g.cs
 C:\Users\gmarques\Documents\dotnetTutorials\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Edit.cshtml.g.cs
 C:\Users\gmarques\Documents\dotnetTutorials\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Index.cshtml.g.cs
+C:\Users\gmarques\Documents\dotnetTutorials\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\About.cshtml.g.cs
