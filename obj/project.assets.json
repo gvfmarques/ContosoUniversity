@@ -7491,19 +7491,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gmarques\\.nuget\\packages\\": {}
+    "C:\\Users\\gvfma\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gmarques\\Documents\\dotnetTutorials\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectUniqueName": "C:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\ContosoUniversity.csproj",
       "projectName": "ContosoUniversity",
-      "projectPath": "C:\\Users\\gmarques\\Documents\\dotnetTutorials\\ContosoUniversity\\ContosoUniversity.csproj",
-      "packagesPath": "C:\\Users\\gmarques\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gmarques\\Documents\\dotnetTutorials\\ContosoUniversity\\obj\\",
+      "projectPath": "C:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\ContosoUniversity.csproj",
+      "packagesPath": "C:\\Users\\gvfma\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gmarques\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gvfma\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7576,7 +7576,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
