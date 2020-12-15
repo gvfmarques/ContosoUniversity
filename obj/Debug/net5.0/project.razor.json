@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\gmarques\\Documents\\dotnetTutorials\\ContosoUniversity\\ContosoUniversity.csproj",
+  "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\ContosoUniversity.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15603,68 +15603,118 @@
   "RootNamespace": "ContosoUniversity",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\gmarques\\Documents\\dotnetTutorials\\ContosoUniversity\\Pages\\Students\\Edit.cshtml",
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\Students\\Edit.cshtml",
       "TargetPath": "Pages\\Students\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\gmarques\\Documents\\dotnetTutorials\\ContosoUniversity\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\Courses\\Details.cshtml",
+      "TargetPath": "Pages\\Courses\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\gmarques\\Documents\\dotnetTutorials\\ContosoUniversity\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\Instructors\\Details.cshtml",
+      "TargetPath": "Pages\\Instructors\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\gmarques\\Documents\\dotnetTutorials\\ContosoUniversity\\Pages\\Students\\Create.cshtml",
-      "TargetPath": "Pages\\Students\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\gmarques\\Documents\\dotnetTutorials\\ContosoUniversity\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\gmarques\\Documents\\dotnetTutorials\\ContosoUniversity\\Pages\\About.cshtml",
-      "TargetPath": "Pages\\About.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\gmarques\\Documents\\dotnetTutorials\\ContosoUniversity\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\gmarques\\Documents\\dotnetTutorials\\ContosoUniversity\\Pages\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\gmarques\\Documents\\dotnetTutorials\\ContosoUniversity\\Pages\\Students\\Delete.cshtml",
-      "TargetPath": "Pages\\Students\\Delete.cshtml",
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\gmarques\\Documents\\dotnetTutorials\\ContosoUniversity\\Pages\\Students\\Index.cshtml",
-      "TargetPath": "Pages\\Students\\Index.cshtml",
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\Instructors\\Delete.cshtml",
+      "TargetPath": "Pages\\Instructors\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\gmarques\\Documents\\dotnetTutorials\\ContosoUniversity\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\About.cshtml",
+      "TargetPath": "Pages\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\Courses\\Edit.cshtml",
+      "TargetPath": "Pages\\Courses\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\Courses\\Create.cshtml",
+      "TargetPath": "Pages\\Courses\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\Courses\\Delete.cshtml",
+      "TargetPath": "Pages\\Courses\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\Instructors\\Index.cshtml",
+      "TargetPath": "Pages\\Instructors\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\Students\\Details.cshtml",
+      "TargetPath": "Pages\\Students\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\gmarques\\Documents\\dotnetTutorials\\ContosoUniversity\\Pages\\Error.cshtml",
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\Students\\Index.cshtml",
+      "TargetPath": "Pages\\Students\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\gmarques\\Documents\\dotnetTutorials\\ContosoUniversity\\Pages\\Students\\Details.cshtml",
-      "TargetPath": "Pages\\Students\\Details.cshtml",
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\Instructors\\Create.cshtml",
+      "TargetPath": "Pages\\Instructors\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\Students\\Create.cshtml",
+      "TargetPath": "Pages\\Students\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\Courses\\Index.cshtml",
+      "TargetPath": "Pages\\Courses\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\Students\\Delete.cshtml",
+      "TargetPath": "Pages\\Students\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gvfma\\source\\repos\\ContosoUniversity\\Pages\\Instructors\\Edit.cshtml",
+      "TargetPath": "Pages\\Instructors\\Edit.cshtml",
       "FileKind": "mvc"
     }
   ],
