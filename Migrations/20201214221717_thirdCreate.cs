@@ -7,12 +7,20 @@ namespace ContosoUniversity.Migrations
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.AddColumn<int>(
-                name: "DepartmentID",
+            migrationBuilder.AlterColumn<string>(
+                name: "Title",
                 table: "Course",
-                type: "INTEGER",
-                nullable: false,
-                defaultValue: 0);
+                maxLength: 50,
+                nullable: true,
+                oldClrType: typeof(string),
+                oldNullable: true);
+            
+            //migrationBuilder.AddColumn<int>(
+               // name: "DepartmentID",
+                //table: "Course",
+                //type: "INTEGER",
+               // nullable: false,
+               // defaultValue: 0);
 
             migrationBuilder.CreateTable(
                 name: "Instructor",
@@ -74,6 +82,16 @@ namespace ContosoUniversity.Migrations
                         principalColumn: "ID",
                         onDelete: ReferentialAction.Restrict);
                 });
+
+                migrationBuilder.Sql("INSERT INTO dbo.Department (Name, Budget, StartDate) VALUES ('Temp', 0.00, GETDATE())");
+                // Default value for FK points to department created above, with
+                // defaultValue changed to 1 in following AddColumn statement.
+
+                migrationBuilder.AddColumn<int>(
+                     name: "DepartmentID",
+                    table: "Course",
+                    nullable: false,
+                    defaultValue: 1);
 
             migrationBuilder.CreateTable(
                 name: "OfficeAssignment",
